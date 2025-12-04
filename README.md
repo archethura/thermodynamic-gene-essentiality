@@ -5,6 +5,8 @@
 [![OSF](https://img.shields.io/badge/OSF-Preregistration-green)](https://osf.io/vxyn8)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+**Repository:** https://github.com/archethura/thermodynamic-gene-essentiality
+
 ---
 
 ## Overview
@@ -38,6 +40,7 @@ This repository contains data, code, and analysis demonstrating that **thermodyn
 ## Repository Structure
 
 ```
+thermodynamic-gene-essentiality/
 ├── README.md                    # This file
 ├── LICENSE                      # MIT License
 ├── data/
@@ -109,9 +112,11 @@ Thermodynamic Stability → Evolutionary Persistence → Functional Conservation
 
 ---
 
-## Pre-registration
+## Links
 
-This study was pre-registered on OSF: **[https://osf.io/vxyn8](https://osf.io/vxyn8)**
+- **Repository:** https://github.com/archethura/thermodynamic-gene-essentiality
+- **Pre-registration:** https://osf.io/vxyn8
+- **DepMap Data:** https://depmap.org/portal/
 
 ---
 
@@ -132,5 +137,3 @@ This study was pre-registered on OSF: **[https://osf.io/vxyn8](https://osf.io/vx
 ## License
 
 MIT License - see [LICENSE](LICENSE) for details.
-
-
