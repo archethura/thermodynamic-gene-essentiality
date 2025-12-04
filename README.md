@@ -127,8 +127,8 @@ Thermodynamic Stability → Evolutionary Persistence → Functional Conservation
   title={Thermodynamic Constraints Define a Core Set of 91 Universally 
          Essential Genes Conserved Across All Three Domains of Life},
   author={Maddox, Joseph},
-  journal={bioRxiv},
-  year={2024}
+ note={Manuscript in preparation},
+  year={2025}
 }
 ```
 
