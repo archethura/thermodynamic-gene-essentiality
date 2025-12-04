@@ -1,0 +1,93 @@
+gene_symbol,category,chronos_score,phylostrata,function
+RPL3,Internal,-2.31,1,Ribosomal protein large subunit
+RPL4,Internal,-2.45,1,Ribosomal protein large subunit
+RPL5,Internal,-1.89,1,Ribosomal protein large subunit
+RPL6,Internal,-2.12,1,Ribosomal protein large subunit
+RPL7,Internal,-2.03,1,Ribosomal protein large subunit
+RPL7A,Internal,-2.28,1,Ribosomal protein large subunit
+RPL8,Internal,-2.41,1,Ribosomal protein large subunit
+RPL9,Internal,-1.95,1,Ribosomal protein large subunit
+RPL10,Internal,-2.15,1,Ribosomal protein large subunit
+RPL10A,Internal,-2.22,1,Ribosomal protein large subunit
+RPL11,Internal,-2.35,1,Ribosomal protein large subunit
+RPL12,Internal,-1.88,1,Ribosomal protein large subunit
+RPL13,Internal,-2.08,1,Ribosomal protein large subunit
+RPL13A,Internal,-2.19,1,Ribosomal protein large subunit
+RPL14,Internal,-2.25,1,Ribosomal protein large subunit
+RPL15,Internal,-2.11,1,Ribosomal protein large subunit
+RPL17,Internal,-2.05,1,Ribosomal protein large subunit
+RPL18,Internal,-2.32,1,Ribosomal protein large subunit
+RPL18A,Internal,-2.18,1,Ribosomal protein large subunit
+RPL19,Internal,-1.92,1,Ribosomal protein large subunit
+RPL21,Internal,-2.08,1,Ribosomal protein large subunit
+RPL22,Internal,-1.75,1,Ribosomal protein large subunit
+RPL23,Internal,-2.42,1,Ribosomal protein large subunit
+RPL23A,Internal,-2.28,1,Ribosomal protein large subunit
+RPL24,Internal,-2.15,1,Ribosomal protein large subunit
+RPL26,Internal,-2.21,1,Ribosomal protein large subunit
+RPL27,Internal,-2.05,1,Ribosomal protein large subunit
+RPL27A,Internal,-2.12,1,Ribosomal protein large subunit
+RPL28,Internal,-1.98,1,Ribosomal protein large subunit
+RPL29,Internal,-1.85,1,Ribosomal protein large subunit
+RPL30,Internal,-2.08,1,Ribosomal protein large subunit
+RPL31,Internal,-1.92,1,Ribosomal protein large subunit
+RPL32,Internal,-2.18,1,Ribosomal protein large subunit
+RPL34,Internal,-2.05,1,Ribosomal protein large subunit
+RPL35,Internal,-2.22,1,Ribosomal protein large subunit
+RPL35A,Internal,-2.15,1,Ribosomal protein large subunit
+RPL36,Internal,-1.88,1,Ribosomal protein large subunit
+RPL37,Internal,-2.02,1,Ribosomal protein large subunit
+RPL37A,Internal,-2.08,1,Ribosomal protein large subunit
+RPL38,Internal,-1.95,1,Ribosomal protein large subunit
+RPL39,Internal,-1.82,1,Ribosomal protein large subunit
+RPS2,Internal,-2.35,1,Ribosomal protein small subunit
+RPS3,Internal,-2.28,1,Ribosomal protein small subunit
+RPS3A,Internal,-2.18,1,Ribosomal protein small subunit
+RPS4X,Internal,-2.42,1,Ribosomal protein small subunit
+RPS5,Internal,-2.15,1,Ribosomal protein small subunit
+RPS6,Internal,-2.25,1,Ribosomal protein small subunit
+RPS7,Internal,-2.08,1,Ribosomal protein small subunit
+RPS8,Internal,-2.32,1,Ribosomal protein small subunit
+RPS9,Internal,-2.12,1,Ribosomal protein small subunit
+RPS10,Internal,-1.95,1,Ribosomal protein small subunit
+RPS11,Internal,-2.22,1,Ribosomal protein small subunit
+RPS12,Internal,-2.05,1,Ribosomal protein small subunit
+RPS13,Internal,-2.18,1,Ribosomal protein small subunit
+RPS14,Internal,-2.28,1,Ribosomal protein small subunit
+RPS15,Internal,-1.88,1,Ribosomal protein small subunit
+RPS15A,Internal,-2.02,1,Ribosomal protein small subunit
+RPS16,Internal,-2.15,1,Ribosomal protein small subunit
+RPS17,Internal,-2.08,1,Ribosomal protein small subunit
+RPS18,Internal,-2.35,1,Ribosomal protein small subunit
+RPS19,Internal,-2.22,1,Ribosomal protein small subunit
+RPS20,Internal,-1.95,1,Ribosomal protein small subunit
+RPS21,Internal,-2.05,1,Ribosomal protein small subunit
+RPS23,Internal,-2.12,1,Ribosomal protein small subunit
+RPS24,Internal,-2.18,1,Ribosomal protein small subunit
+RPS25,Internal,-1.85,1,Ribosomal protein small subunit
+RPS26,Internal,-2.02,1,Ribosomal protein small subunit
+RPS27,Internal,-2.08,1,Ribosomal protein small subunit
+RPS27A,Internal,-2.25,1,Ribosomal protein small subunit
+RPS28,Internal,-1.92,1,Ribosomal protein small subunit
+RPS29,Internal,-1.78,1,Ribosomal protein small subunit
+PSMA1,Internal,-1.52,1,Proteasome subunit alpha
+PSMA2,Internal,-1.68,1,Proteasome subunit alpha
+PSMA3,Internal,-1.55,1,Proteasome subunit alpha
+PSMA4,Internal,-1.72,1,Proteasome subunit alpha
+PSMA5,Internal,-1.48,1,Proteasome subunit alpha
+PSMA6,Internal,-1.62,1,Proteasome subunit alpha
+PSMA7,Internal,-1.58,1,Proteasome subunit alpha
+PSMB1,Internal,-1.45,1,Proteasome subunit beta
+PSMB2,Internal,-1.52,1,Proteasome subunit beta
+PSMB3,Internal,-1.38,1,Proteasome subunit beta
+PSMB4,Internal,-1.65,1,Proteasome subunit beta
+PSMB5,Internal,-1.72,1,Proteasome subunit beta
+PSMB6,Internal,-1.48,1,Proteasome subunit beta
+PSMB7,Internal,-1.55,1,Proteasome subunit beta
+CCT2,Internal,-1.82,1,Chaperonin subunit
+CCT3,Internal,-1.75,1,Chaperonin subunit
+CCT4,Internal,-1.68,1,Chaperonin subunit
+CCT5,Internal,-1.72,1,Chaperonin subunit
+CCT6A,Internal,-1.65,1,Chaperonin subunit
+CCT7,Internal,-1.58,1,Chaperonin subunit
+CCT8,Internal,-1.62,1,Chaperonin subunit
